@@ -1,0 +1,8 @@
+alpha: 0.1
+
+conformal_result_dataset: ""
+statistics_result_dataset: ""
+statistics_dataset: ""
+
+llm_temp: 0.7
+llm_inference_repeats: 10
