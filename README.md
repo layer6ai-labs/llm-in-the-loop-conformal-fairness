@@ -4,7 +4,7 @@
 
 # Substantive Fairness in Conformal Prediction
 
-This repository contains the codebase for experiments studying **procedural and substantive fairness properties of conformal prediction methods**, including downstream evaluation and LLM-in-the-loop analysis. Experiments using this code are presented in  [*Beyond Procedure: Substantive Fairness in Conformal Prediction*](https://arxiv.org/abs/2602.XXXXX).
+This repository contains the codebase for experiments studying **procedural and substantive fairness properties of conformal prediction methods**, including downstream evaluation and LLM-in-the-loop analysis. Experiments using this code are presented in  [*Beyond Procedure: Substantive Fairness in Conformal Prediction*](https://arxiv.org/abs/2602.16794).
 
 The code supports multiple datasets, score functions, and evaluation pipelines through a unified, configuration-driven interface.
 
@@ -262,7 +262,7 @@ If you use any part of this repository in your research, please cite the associa
 @article{liu2026beyondprocedure,
   title={Beyond Procedure: Substantive Fairness in Conformal Prediction},
   author={Liu, Pengqi and Yu, Zijun and Belbahri, Mouloud and Charpentier, Arthur and Asgharian, Masoud and Cresswell, Jesse},
-  journal={arXiv:2602.XXXXX},
+  journal={arXiv:2602.16794},
   year={2026}
 }
 ```
